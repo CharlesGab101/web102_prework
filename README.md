@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img width="1906" height="867" alt="Prework102" src="https://github.com/user-attachments/assets/0ad22242-2791-4604-9b11-cd0cf01d8e47.gif" />
+<img width="1906" height="867" alt="Prework102" src="https://github.com/user-attachments/assets/0ad22242-2791-4604-9b11-cd0cf01d8e47" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
