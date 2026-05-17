@@ -26,7 +26,7 @@ Here's a walkthrough of implemented features:
 <img width="1906" height="867" alt="Prework102" src="https://github.com/user-attachments/assets/0ad22242-2791-4604-9b11-cd0cf01d8e47" />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -35,10 +35,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+There are some codes that I dont know and I have to look up for tutorial on how to do it.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2026] [Charles Edwill Gabut]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
